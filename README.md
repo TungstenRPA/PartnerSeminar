@@ -4,7 +4,7 @@
 * Where is Kofax today? (Cloud)
 * Roadmap Themes - Customer Experience - Continuous Engagement
 * Customer Engagement and Qualification (Personas)
- *(Homework - Do Analysis of your next customer)
+ * ([Homework](Homework%201.md) - Do Analysis of your next customer)
 
 ## Kofax IA Workshop Part 2 - Kofax Platforms
 * Homework Review
