@@ -1,4 +1,4 @@
-## Kofax IA Workshop Part 1
+## Kofax IA Workshop Part 1 - Kofax Today
 * Introduction
 * What is Hyperautomation?
 * Where is Kofax today? (Cloud)
