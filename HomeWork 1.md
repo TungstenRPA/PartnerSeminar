@@ -4,11 +4,12 @@ Pick a customer that you intend to engage with in the near future.
 
 ## What is their corporate (executive) vision?
 Why does this company exist? what is their mission?  
-Look at their website vision statement, read news articles on the company and CEO. Check LinkedIn.  
+Look at their website vision statement. Who is the CEO? Are they new?
 keywords: *Simplify, best in field, best services, innovate, sustainability, social responsibility*
 ## What are the Operational Goals of the CxO
 (Chief Finance/Operations/Robotics/Visionary/Experience Officer).  
 What do they want to do?  
+Read news articles on the company and CEO. Check LinkedIn.  Are there crises? Changes in Plan, Executives left?  
 keywords: *Improving speed, quality, service, growth, efficiency, market position, trust, creative, 
 “Automate”, transparency, customer satisfaction, prioritize, Save money, create value*  
 ## What are the Departmental Needs
