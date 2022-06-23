@@ -15,7 +15,8 @@
 * What is Kofax Transformation?
 * Semi/Structured Documents
 * Competitve Landscape
-* (Homework - Where/What is the information coming from and going to?  What is the flow?)  Have them send in advance
+* Homework - What Customer pains could be solved by whic Kofax Platforms (Express/KC/KTA/RPA)
+* Homework - Watch [[The Accuracy Problem video](https://kofax.app.bigtincan.com/pfiles/QNb0pzmX1Ov6oPrWVEmZiQhrhLijFlhzBGDyxjYan95Ldl27Kk/f/1039876035)]
 
 ## Kofax IA Workshop Part 3 - AI, Accuracy, Automation, Robots
 * Homework Review
