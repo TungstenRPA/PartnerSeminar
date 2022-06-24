@@ -20,6 +20,7 @@ david.wright@kofax.com
 * Homework - Watch [[The Accuracy Problem video](https://kofax.app.bigtincan.com/pfiles/QNb0pzmX1Ov6oPrWVEmZiQhrhLijFlhzBGDyxjYan95Ldl27Kk/f/1039876035)]
 
 ## Kofax IA Workshop Part 3 - AI, Accuracy, Automation, Robots
+[presentation download](https://github.com/KofaxRPA/PartnerSeminar/raw/main/Kofax%20Workshop%20%20%233%20-%20AI%20%26%20%20Accuracy%20with%20Kofax.pptx)
 * Homework Review
 * "Time Bombs"
 * Focus on People
