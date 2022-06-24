@@ -1,4 +1,5 @@
 ## Kofax IA Workshop Part 1 - Kofax Today
+david.wright@kofax.com  
 [presentation download](https://github.com/KofaxRPA/PartnerSeminar/raw/main/Kofax%20Workshop%20%20%231%20-%20Kofax%20Today.pptx)
 * Introduction
 * What is Hyperautomation?
