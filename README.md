@@ -36,6 +36,7 @@ _Day 2 of the workshop is a flexible time for your to explore Kofax technology o
 * Install [Kofax RPA on Docker](https://github.com/KofaxRPA/Docker#readme) on your laptop.
 * Install [Kofax RPA on Apache Tomcat](https://github.com/KofaxRPA/RPA-Best-Practices/wiki/Install-Kofax-RPA-11.3-on-Apache-Tomcat-on-Windows) - required for production scenarios.
 ### Kofax Transformation
+* [Build an Invoice Project in 20 Minutes](https://www.youtube.com/watch?v=bIDmLVHmJNM)
 _You will need experience with Kofax Transformation and need to have it installed_
 * [Field Confidence Threshold Optimization Tool](https://github.com/KofaxTransformation/ThresholdOptimizer) [[video](https://kofax.app.bigtincan.com/pfiles/w2kZv90yNLODdMVXA819iyhVcWtxCmCk8zPjG35nramlRpWeoY/f/1039908450)] [[presentation](https://kofax.app.bigtincan.com/pfiles/w2kZv90yNLODdMVXA819iyhVcWtxCmCk8zPjG35nramlRpWeoY/f/1039908451)]
 * [Advanced Classification](https://github.com/KofaxTransformation/KTScripts/blob/master/Custom%20Classification.md) [[video](https://kofax.app.bigtincan.com/pfiles/eo57XKl2mjWQrYwZRBnWibhoUwhVcrt58O4dDkJP1AzvnaGx0y/f/1040349747)][[presentation](https://kofax.app.bigtincan.com/pfiles/eo57XKl2mjWQrYwZRBnWibhoUwhVcrt58O4dDkJP1AzvnaGx0y/f/1040349748)]
