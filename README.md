@@ -37,3 +37,10 @@ david.wright@kofax.com
 ### Kofax Transformation
 * [Field Confidence Threshold Optimization Tool](https://github.com/KofaxTransformation/ThresholdOptimizer) [[video](https://kofax.app.bigtincan.com/pfiles/w2kZv90yNLODdMVXA819iyhVcWtxCmCk8zPjG35nramlRpWeoY/f/1039908450)] [[presentation](https://kofax.app.bigtincan.com/pfiles/w2kZv90yNLODdMVXA819iyhVcWtxCmCk8zPjG35nramlRpWeoY/f/1039908451)]
 * [Advanced Classification](https://github.com/KofaxTransformation/KTScripts/blob/master/Custom%20Classification.md) [[video](https://kofax.app.bigtincan.com/pfiles/eo57XKl2mjWQrYwZRBnWibhoUwhVcrt58O4dDkJP1AzvnaGx0y/f/1040349747)][[presentation](https://kofax.app.bigtincan.com/pfiles/eo57XKl2mjWQrYwZRBnWibhoUwhVcrt58O4dDkJP1AzvnaGx0y/f/1040349748)]
+### SignDoc
+* See Youssef Sayegh for installing SignDoc on Docker.
+### AP Essentials
+![image](https://user-images.githubusercontent.com/47416964/186334804-a9f09d84-a9f3-46a9-b73b-7b3d643a9cfd.png)
+
+### Printix
+
