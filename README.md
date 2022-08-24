@@ -44,4 +44,7 @@ david.wright@kofax.com
 ![image](https://user-images.githubusercontent.com/47416964/186334804-a9f09d84-a9f3-46a9-b73b-7b3d643a9cfd.png)
 
 ### Printix
-
+* (Homepage)[https://www.kofax.com/products/printix]
+* (Introduction Video)[https://www.youtube.com/watch?v=kxyGyyCraSM&list=PLi3FuKp4jDflHznDGWYQfrrzjbm4xdOtj]
+* (Free Training)[https://learn.kofax.com/course-details?course_id=844]
+* (Tutorials and Best Practices)[https://printix.net/partners/resource-center/video-library]
