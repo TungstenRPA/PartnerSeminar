@@ -40,6 +40,7 @@ david.wright@kofax.com
 ### SignDoc
 * See Youssef Sayegh for installing SignDoc on Docker.
 ### AP Essentials
+* Open [AP Essentials](https://kofaxdemo-au.readsoftonline.com/)
 ![image](https://user-images.githubusercontent.com/47416964/186334804-a9f09d84-a9f3-46a9-b73b-7b3d643a9cfd.png)
 
 ### Printix
