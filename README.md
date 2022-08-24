@@ -30,11 +30,13 @@ david.wright@kofax.com
 * AI - Precision and Recall
 
 ## Day 2 - Technical Workshop
+_Day 2 of the workshop is a flexible time for your to explore Kofax technology on your own. Pick a product below and get started. Kofax Sales Engineers are available to assist you._
 ### RPA
 * Install [Kofax RPA for free](https://www.kofax.com/products/rpa/rpa-free-trial) and [build your first robot](https://www.kofax.com/-/media/files/e-books/en/ug_rpa-tutorial-guide-_en.pdf) ([video tutorial](https://www.kofax.com/eg/kofax-rpa-tutorials)).
 * Install [Kofax RPA on Docker](https://github.com/KofaxRPA/Docker#readme) on your laptop.
 * Install [Kofax RPA on Apache Tomcat](https://github.com/KofaxRPA/RPA-Best-Practices/wiki/Install-Kofax-RPA-11.3-on-Apache-Tomcat-on-Windows) - required for production scenarios.
 ### Kofax Transformation
+_You will need experience with Kofax Transformation and need to have it installed_
 * [Field Confidence Threshold Optimization Tool](https://github.com/KofaxTransformation/ThresholdOptimizer) [[video](https://kofax.app.bigtincan.com/pfiles/w2kZv90yNLODdMVXA819iyhVcWtxCmCk8zPjG35nramlRpWeoY/f/1039908450)] [[presentation](https://kofax.app.bigtincan.com/pfiles/w2kZv90yNLODdMVXA819iyhVcWtxCmCk8zPjG35nramlRpWeoY/f/1039908451)]
 * [Advanced Classification](https://github.com/KofaxTransformation/KTScripts/blob/master/Custom%20Classification.md) [[video](https://kofax.app.bigtincan.com/pfiles/eo57XKl2mjWQrYwZRBnWibhoUwhVcrt58O4dDkJP1AzvnaGx0y/f/1040349747)][[presentation](https://kofax.app.bigtincan.com/pfiles/eo57XKl2mjWQrYwZRBnWibhoUwhVcrt58O4dDkJP1AzvnaGx0y/f/1040349748)]
 ### SignDoc
