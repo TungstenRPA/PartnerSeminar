@@ -1,7 +1,7 @@
 ## Kofax IA Workshop Part 1 - Kofax Today
-David Wright, Partner Enablement Manager
-Richard Haine, Enablement Program Manager
-Marcus Heyeckhaus, Enablement Program Manager
+David Wright, Partner Enablement Manager  
+Richard Haine, Enablement Program Manager  
+Marcus Heyeckhaus, Enablement Program Manager  
 [presentation download](https://github.com/KofaxRPA/PartnerSeminar/raw/main/Kofax%20Workshop%20%20%231%20-%20Kofax%20Today.pptx)
 * Introduction
 * What is Hyperautomation?
