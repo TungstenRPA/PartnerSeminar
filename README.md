@@ -52,6 +52,7 @@ _You will need experience with Kofax Transformation and need to have it installe
 ### Printix
 * [Homepage](https://www.kofax.com/products/printix)
 * [Introduction Video](https://www.youtube.com/watch?v=kxyGyyCraSM&list=PLi3FuKp4jDflHznDGWYQfrrzjbm4xdOtj)
+* [Free Trial and Installation Guide](https://manuals.printix.net/implementation)
 * [Free Training](https://learn.kofax.com/course-details?course_id=844)
 * [Tutorials and Best Practices](https://printix.net/partners/resource-center/video-library)
 ### [PowerPDF](https://www.kofax.com/products/power-pdf)
