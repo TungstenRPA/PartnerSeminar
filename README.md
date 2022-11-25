@@ -38,6 +38,7 @@ _Day 2 of the workshop is a flexible time for your to explore Kofax technology o
 * Install [Kofax RPA for free](https://www.kofax.com/products/rpa/rpa-free-trial) and [build your first robot](https://www.kofax.com/-/media/files/e-books/en/ug_rpa-tutorial-guide-_en.pdf) ([video tutorial](https://www.kofax.com/eg/kofax-rpa-tutorials)).
 * Install [Kofax RPA on Docker](https://github.com/KofaxRPA/Docker#readme) on your laptop.
 * Install [Kofax RPA on Apache Tomcat](https://github.com/KofaxRPA/RPA-Best-Practices/wiki/Install-Kofax-RPA-11.3-on-Apache-Tomcat-on-Windows) - required for production scenarios.
+* Integrate Kofax RPA with [https://github.com/KofaxRPA/Cognigy](Cognigy Conversational AI).
 ### Kofax Transformation
 * [Build an Invoice Project in 20 Minutes](https://www.youtube.com/watch?v=bIDmLVHmJNM)  
 _You will need experience with Kofax Transformation and need to have it installed_
