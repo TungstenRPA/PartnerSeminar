@@ -1,4 +1,6 @@
 ## Kofax IA Workshop Part 1 - Kofax Today
+![image](https://user-images.githubusercontent.com/47416964/203927904-fe9b69aa-3652-4899-b411-5735366ab22a.png)
+
 David Wright, Partner Enablement Manager  
 Richard Haine, Enablement Program Manager  
 Marcus Heyeckhaus, Enablement Program Manager  
