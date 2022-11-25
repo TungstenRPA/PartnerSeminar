@@ -47,6 +47,8 @@ _You will need experience with Kofax Transformation and need to have it installe
 * [Script Library](https://github.com/KofaxTransformation/KTScripts#readme)
 ### SignDoc
 * See Richard.
+### Total Agility
+* [Integrate](https://smarthub.kofax.com/details/ai-document-fraud-detection-resistant) [Resistant AI](https://resistant.ai/) with Total Agililty. (Detecting forged indentity cards)
 ### AP Essentials
 * Open [AP Essentials](https://kofaxdemo-au.readsoftonline.com/)
 ![image](https://user-images.githubusercontent.com/47416964/186334804-a9f09d84-a9f3-46a9-b73b-7b3d643a9cfd.png)
