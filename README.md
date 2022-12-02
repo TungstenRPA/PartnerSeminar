@@ -13,7 +13,7 @@ Marcus Heyeckhaus, Enablement Program Manager
  * ([Homework](HomeWork%201.md) - Do Analysis of your next customer)
 
 ## Kofax IA Workshop Part 2 - Kofax Platforms
-[presentation download](https://github.com/KofaxRPA/PartnerSeminar/raw/main/Kofax%20Workshop%20%20%232%20-%20Kofax%20Platforms.pptx)
+[presentation download](https://github.com/KofaxRPA/PartnerSeminar/raw/main/Kofax%20Workshop%20%231%20-%20Kofax%20Today.pptx)
 * Homework Review
 * What does Kofax do?
 * Review Platforms - Capture, KTA, RPA
