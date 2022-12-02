@@ -4,7 +4,7 @@
 David Wright, Partner Enablement Manager  
 Richard Haine, Enablement Program Manager  
 Marcus Heyeckhaus, Enablement Program Manager  
-[presentation download](https://github.com/KofaxRPA/PartnerSeminar/raw/main/Kofax%20Workshop%20%20%231%20-%20Kofax%20Today.pptx)
+[presentation download](https://github.com/KofaxRPA/PartnerSeminar/raw/main/Kofax%20Workshop%20231%20-%20Kofax%20Today.pptx)
 * Introduction
 * What is Hyperautomation?
 * Where is Kofax today? (Cloud)
