@@ -1,10 +1,10 @@
 ## Kofax IA Workshop Part 1 - Kofax Today
 ![image](https://user-images.githubusercontent.com/47416964/203927904-fe9b69aa-3652-4899-b411-5735366ab22a.png)
 
+[presentation downloads](https://kofax.app.bigtincan.com/lshare/aNDYWjGpPdMJn9eZRyXxgVmfYsQFL8QrOmlALk7024v3zqV6bw)  
 David Wright, Partner Enablement Manager  
 Richard Haine, Enablement Program Manager  
 Marcus Heyeckhaus, Enablement Program Manager  
-[presentation download](https://github.com/KofaxRPA/PartnerSeminar/raw/main/Kofax%20Workshop%20231%20-%20Kofax%20Today.pptx)
 * Introduction
 * What is Hyperautomation?
 * Where is Kofax today? (Cloud)
@@ -13,8 +13,6 @@ Marcus Heyeckhaus, Enablement Program Manager
  * ([Homework](HomeWork%201.md) - Do Analysis of your next customer)
 
 ## Kofax IA Workshop Part 2 - Kofax Platforms
-[presentation download](https://github.com/KofaxRPA/PartnerSeminar/raw/main/Kofax%20Workshop%20%231%20-%20Kofax%20Today.pptx)
-* Homework Review
 * What does Kofax do?
 * Review Platforms - Capture, KTA, RPA
 * What is Kofax Transformation?
@@ -24,8 +22,6 @@ Marcus Heyeckhaus, Enablement Program Manager
 * Homework - Watch [[The Accuracy Problem video](https://kofax.app.bigtincan.com/pfiles/QNb0pzmX1Ov6oPrWVEmZiQhrhLijFlhzBGDyxjYan95Ldl27Kk/f/1039876035)]
 
 ## Kofax IA Workshop Part 3 - AI, Accuracy, Automation, Robots
-[presentation download](https://github.com/KofaxRPA/PartnerSeminar/raw/main/Kofax%20Workshop%20%20%233%20-%20AI%20%26%20%20Accuracy%20with%20Kofax.pptx)
-* Homework Review
 * "Time Bombs"
 * Focus on People
 * Stories (RPA, KTA)
