@@ -5,6 +5,12 @@
 ## Session 1 Introduction
 * Hyperautomation and Citizen Developers.
 * Intelligent Automation Platform and Solutions.
+    * Data-Intensive Workflows
+    * Financial Process Automation
+    * Document Management & Security
+    * Document Productivity  
+![image](https://user-images.githubusercontent.com/47416964/222440020-0bb25d73-84fe-4ece-8422-548a301cbcce.png)
+
 * Verticals and Solutions, not Technology. Where to find success with Kofax.
     * Partners can build their own verticals or build on Kofax'.
     * [Kofax Marketplace](https://marketplace.kofax.com/)
