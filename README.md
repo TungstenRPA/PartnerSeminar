@@ -3,13 +3,16 @@
 *David Wright, Partner Enablement Manager*  
 
 ## Session 1 Introduction
-* What is Hyperautomation?
-* Intelligent Automation Platform and Solutions
+* Hyperautomation and Citizen Developers.
+* Intelligent Automation Platform and Solutions.
+* Verticals and Solutions, not Technology. Where to find success with Kofax.
+    * Partners can build their own verticals or build on Kofax'.
+    * [Kofax Marketplace](https://marketplace.kofax.com/)
 * Roadmap Themes - Customer Experience - Continuous Engagement
 
 ## Session 2 - Intelligent Automation
 * KTA Cloud. RPA Cloud. Our Cloud or your Cloud - it's your choice.
-* Competitve Landscape
+* How to face your competitors.
 
 ## Sessions 3 - AI, Accuracy, Automation
 * The Accuracy Problem and why we focus on People [[video](https://kofax.app.bigtincan.com/pfiles/QNb0pzmX1Ov6oPrWVEmZiQhrhLijFlhzBGDyxjYan95Ldl27Kk/f/1039876035)] [[presentation](https://kofax.app.bigtincan.com/pfiles/QNb0pzmX1Ov6oPrWVEmZiQhrhLijFlhzBGDyxjYan95Ldl27Kk/f/1039876036)]
@@ -36,6 +39,7 @@ _You will need experience with Kofax Transformation and need to have it installe
 ### SignDoc
 * See Richard.
 ### Total Agility
+* Use [Quick RPA](https://docshield.kofax.com/KTA/en_US/7.11.0-h49vd5omev/help/Workspace/All_Shared/workspace/t_quickrpa.html) to integrate an RPA robot into Total Agility.
 * [Integrate](https://smarthub.kofax.com/details/ai-document-fraud-detection-resistant) [Resistant AI](https://resistant.ai/) with Total Agililty. (Detecting forged indentity cards)
 ### AP Essentials
 * Open [AP Essentials](https://kofaxdemo-au.readsoftonline.com/)
