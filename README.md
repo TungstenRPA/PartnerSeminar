@@ -1,32 +1,27 @@
-## Kofax IA Workshop Part 1 - Kofax Today
-![image](https://user-images.githubusercontent.com/47416964/203927904-fe9b69aa-3652-4899-b411-5735366ab22a.png)
+# Kofax Intelligent Automation Partner Workshop Day 1
 
-[presentation downloads](https://kofax.app.bigtincan.com/lshare/aNDYWjGpPdMJn9eZRyXxgVmfYsQFL8QrOmlALk7024v3zqV6bw)  
-David Wright, Partner Enablement Manager  
-Richard Haine, Enablement Program Manager  
-Marcus Heyeckhaus, Enablement Program Manager  
-* Introduction
+*David Wright, Partner Enablement Manager*  
+## Session 1 Introduction
 * What is Hyperautomation?
-* Where is Kofax today? (Cloud)
+* Intelligent Automation Platform and Solutions
 * Roadmap Themes - Customer Experience - Continuous Engagement
-* Customer Engagement and Qualification (Personas)
- * ([Homework](HomeWork%201.md) - Do Analysis of your next customer)
 
-## Kofax IA Workshop Part 2 - Kofax Platforms
-* What does Kofax do?
-* Review Platforms - Capture, KTA, RPA
+## Session 2 - Intelligent Automation
+* RPA Cloud
 * What is Kofax Transformation?
-* Semi/Structured Documents
 * Competitve Landscape
-* Homework - What Customer pains could be solved by whic Kofax Platforms (Express/KC/KTA/RPA)
-* Homework - Watch [[The Accuracy Problem video](https://kofax.app.bigtincan.com/pfiles/QNb0pzmX1Ov6oPrWVEmZiQhrhLijFlhzBGDyxjYan95Ldl27Kk/f/1039876035)]
 
-## Kofax IA Workshop Part 3 - AI, Accuracy, Automation, Robots
+## Sessions 3 - AI, Accuracy, Automation
 * "Time Bombs"
 * Focus on People
 * Stories (RPA, KTA)
 * The Accuracy Problem [[video](https://kofax.app.bigtincan.com/pfiles/QNb0pzmX1Ov6oPrWVEmZiQhrhLijFlhzBGDyxjYan95Ldl27Kk/f/1039876035)] [[presentation](https://kofax.app.bigtincan.com/pfiles/QNb0pzmX1Ov6oPrWVEmZiQhrhLijFlhzBGDyxjYan95Ldl27Kk/f/1039876036)]
 * AI - Precision and Recall
+
+## Optional
+* Customer Engagement and Qualification (Personas)
+  * ([Homework](HomeWork%201.md) - Do Analysis of your next customer)
+
 
 ## Day 2 - Technical Workshop
 _Day 2 of the workshop is a flexible time for your to explore Kofax technology on your own. Pick a product below and get started. Kofax Sales Engineers are available to assist you._
@@ -59,3 +54,5 @@ _You will need experience with Kofax Transformation and need to have it installe
 * [Tutorials and Best Practices](https://printix.net/partners/resource-center/video-library)
 ### [PowerPDF](https://www.kofax.com/products/power-pdf)
 * [Free Trial](https://www.kofax.com/products/power-pdf/free-trials)
+![image](https://user-images.githubusercontent.com/47416964/203927904-fe9b69aa-3652-4899-b411-5735366ab22a.png)
+[presentation Aug 2022 downloads](https://kofax.app.bigtincan.com/lshare/aNDYWjGpPdMJn9eZRyXxgVmfYsQFL8QrOmlALk7024v3zqV6bw)  
