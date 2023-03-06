@@ -6,6 +6,7 @@
 * Hyperautomation and Citizen Developers.
 * Intelligent Automation Platform and Solutions.
     * Data-Intensive Workflows
+      * Differentiation - Intelligent Document Processing and RPA.
     * Financial Process Automation
     * Document Management & Security
     * Document Productivity  
@@ -19,9 +20,21 @@
 * Roadmap Themes - Customer Experience - Continuous Engagement
 
 ## Session 2 - Intelligent Automation
-* KTA Cloud. RPA Cloud.
+* Cloud
   * Our Cloud or your Cloud - it's your choice.
-  * Migrating to the cloud.
+  * KTA Cloud.
+   * RPA Cloud.
+      * Current limitations
+        * Only 2 CRE Licenses.
+        * No access to Desktop Automation.
+        * Robots limited to 15 minutes.
+      * Migrating to Cloud.
+      * Breaking complex robots into smaller pieces.
+        * parallelization.
+        * Quick RPA.
+        * RPA Cloud.
+        * Recoverability.
+        * Data safety.
 * How to face your competitors.
 
 ## Sessions 3 - AI, Accuracy, Automation
@@ -37,6 +50,9 @@
 _Day 2 of the workshop is a flexible time for your to explore Kofax technology on your own. Pick a product below and get started. Kofax Sales Engineers are available to assist you._
 ### RPA
 * Install [Kofax RPA for free](https://www.kofax.com/products/rpa/rpa-free-trial) and [build your first robot](https://www.kofax.com/-/media/files/e-books/en/ug_rpa-tutorial-guide-_en.pdf) ([video tutorial](https://www.kofax.com/eg/kofax-rpa-tutorials)).
+* Breaking complex robots into simpler robots to support parallelization, Quick RPA, RPA Cloud, recoverability, data safety.
+  * Read Excel and push rows into Database or Queue.
+  * Loop through Application, retrieving many results, and push into Excel.
 * Install [Kofax RPA on Docker](https://github.com/KofaxRPA/Docker#readme) on your laptop.
 * Install [Kofax RPA on Apache Tomcat](https://github.com/KofaxRPA/RPA-Best-Practices/wiki/Install-Kofax-RPA-11.3-on-Apache-Tomcat-on-Windows) - required for production scenarios.
 * Integrate Kofax RPA with [https://github.com/KofaxRPA/Cognigy](Cognigy Conversational AI).
