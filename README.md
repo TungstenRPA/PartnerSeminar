@@ -2,6 +2,11 @@
 
 *David Wright, Partner Enablement Manager*  
 
+## Introduction
+* Welcome. 
+* General Themes.
+* What are your expectations.
+
 ## Session 1 Introduction
 * Hyperautomation and Citizen Developers.
 * Intelligent Automation Platform and Solutions.
@@ -10,7 +15,7 @@
     * Financial Process Automation
     * Document Management & Security
     * Document Productivity  
-    * Roadmap themes, Tungsten, Efesoft.
+    * Roadmap themes, Tungsten, Ephesoft.
 ![image](https://user-images.githubusercontent.com/47416964/222440020-0bb25d73-84fe-4ece-8422-548a301cbcce.png)
 
 * Verticals and Solutions, not Technology. Where to find success with Kofax.
@@ -18,6 +23,8 @@
     * [Kofax Marketplace](https://marketplace.kofax.com/)
     * Available sales plays
 * Roadmap Themes - Customer Experience - Continuous Engagement
+
+## Q&A and Quiz
 
 ## Session 2 - Intelligent Automation
 * Cloud
@@ -41,6 +48,7 @@
 * The Accuracy Problem and why we focus on People [[video](https://kofax.app.bigtincan.com/pfiles/QNb0pzmX1Ov6oPrWVEmZiQhrhLijFlhzBGDyxjYan95Ldl27Kk/f/1039876035)] [[presentation](https://kofax.app.bigtincan.com/pfiles/QNb0pzmX1Ov6oPrWVEmZiQhrhLijFlhzBGDyxjYan95Ldl27Kk/f/1039876036)]
 * Everything you need to know about AI.
 * Kofax Transformation is the AI brain of Intelligent Automation.
+* Demo of Resistant AI.
 
 ## Optional
 * Customer Engagement and Qualification (Personas)
