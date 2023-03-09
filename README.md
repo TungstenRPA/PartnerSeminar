@@ -1,7 +1,7 @@
 # Kofax Intelligent Automation Workshop for Partners
 
 *David Wright, Partner Enablement Manager*  
-* [Singapore](https://www.eventbrite.com/e/575455291267) Wednesday 28 March - Thursday 29 March
+* [Singapore](https://www.eventbrite.com/e/575455291267) Wednesday 22 March - Thursday 23 March
 * [Sydney](https://www.eventbrite.com/e/575408651767) Monday 27 March - Tuesday 28 March
 * USA East Coast. Early May?
 * Irvine, California. Early May?
