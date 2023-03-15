@@ -29,8 +29,6 @@
     * Available sales plays
 * Roadmap Themes - Customer Experience - Continuous Engagement
 
-## Q&A and Quiz
-
 ## Session 2 - Intelligent Automation
 * Cloud
   * Our Cloud or your Cloud - it's your choice.
@@ -48,6 +46,8 @@
         * Recoverability.
         * Data safety.
 * How to face your competitors.
+
+## Q&A and Quiz
 
 ## Sessions 3 - AI, Accuracy, Automation
 * The Accuracy Problem and why we focus on People [[video](https://kofax.app.bigtincan.com/pfiles/QNb0pzmX1Ov6oPrWVEmZiQhrhLijFlhzBGDyxjYan95Ldl27Kk/f/1039876035)] [[presentation](https://kofax.app.bigtincan.com/pfiles/QNb0pzmX1Ov6oPrWVEmZiQhrhLijFlhzBGDyxjYan95Ldl27Kk/f/1039876036)]
