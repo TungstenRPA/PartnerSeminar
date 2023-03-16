@@ -14,13 +14,14 @@
 
 ## Session 1 Introduction
 * Hyperautomation and Citizen Developers.
-* Intelligent Automation Platform and Solutions.
+* Intelligent Automation Platform
     * Data-Intensive Workflows
       * Differentiation - Intelligent Document Processing and RPA.
+* Intelligant Automation Solutions
     * Financial Process Automation
-    * Document Management & Security
+    * Document Automation & Security
     * Document Productivity  
-    * Roadmap themes, Tungsten, Ephesoft.
+* Roadmap themes, Tungsten, Ephesoft.
 ![image](https://user-images.githubusercontent.com/47416964/222440020-0bb25d73-84fe-4ece-8422-548a301cbcce.png)
 
 * Verticals and Solutions, not Technology. Where to find success with Kofax.
@@ -28,11 +29,15 @@
     * [Kofax Marketplace](https://marketplace.kofax.com/)
     * Available sales plays
 * Roadmap Themes - Customer Experience - Continuous Engagement
+* [GKO video links](https://app.zunos.com/#/courses/catalog/33242/) 100 partners attended
+* Get access to [Kofax Partner Portal](https://www.kofax.com/partners/partner-portal-request-form). this will give you access to our Partner Portal and Kofax Sales Content Hub (Bigtincan), and Sales Learning Platform (Zunos)
 
 ## Session 2 - Intelligent Automation
+
 * Cloud
   * Our Cloud or your Cloud - it's your choice.
-  * KTA Cloud.
+  * KTA Cloud. 
+    * Pricing vs on-prem Pricing.
    * RPA Cloud.
       * Current limitations
         * Only 2 CRE Licenses.
