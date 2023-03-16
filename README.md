@@ -14,6 +14,10 @@
 
 ## Session 1 Introduction
 * Hyperautomation and Citizen Developers.
+* Market Messaging (we don't use words 'capture' and 'print'. We don't bring data, we achieve insights so customers can make decisions.)
+```
+Kofax' Intelligent Automation Platform and Solutions improve business critical operations through actionable insigits and data-intensive workflow automation.
+```
 * Intelligent Automation Platform
     * Data-Intensive Workflows
       * Differentiation - Intelligent Document Processing and RPA.
@@ -29,7 +33,7 @@
     * [Kofax Marketplace](https://marketplace.kofax.com/)
     * Available sales plays
 * Roadmap Themes - Customer Experience - Continuous Engagement
-* [GKO video links](https://app.zunos.com/#/courses/catalog/33242/) 100 partners attended
+* [GKO video links](https://app.zunos.com/#/courses/catalog/33242/) 125 partners attended
 * Get access to [Kofax Partner Portal](https://www.kofax.com/partners/partner-portal-request-form). this will give you access to our Partner Portal and Kofax Sales Content Hub (Bigtincan), and Sales Learning Platform (Zunos)
 
 ## Session 2 - Intelligent Automation
