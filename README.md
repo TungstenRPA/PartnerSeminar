@@ -10,6 +10,7 @@
 ## Introduction
 * Welcome. 
 * General Themes.
+* Partner Program
 * What are your expectations.
 
 ## Session 1 Introduction
