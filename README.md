@@ -10,7 +10,7 @@
 ## Introduction
 * Welcome. 
 * General Themes.
-* Partner Program
+* Partner Program. Register with partner portal.
 * What are your expectations.
 
 ## Session 1 Introduction
