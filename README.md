@@ -78,11 +78,14 @@ _Day 2 of the workshop is a flexible time for your to explore Kofax technology o
   * Loop through Application, retrieving many results, and push into Excel.
 * Install [Kofax RPA on Docker](https://github.com/KofaxRPA/Docker#readme) on your laptop.
 * Install [Kofax RPA on Apache Tomcat](https://github.com/KofaxRPA/RPA-Best-Practices/wiki/Install-Kofax-RPA-11.3-on-Apache-Tomcat-on-Windows) - required for production scenarios.
+* Connect to [Office365](https://github.com/KofaxRPA/Mail/blob/master/Microsoft365.md) for email with 2-factor authentication
 * Integrate Kofax RPA with [https://github.com/KofaxRPA/Cognigy](Cognigy Conversational AI).
 ### Kofax Transformation
 * [Build an Invoice Project in 20 Minutes](https://www.youtube.com/watch?v=bIDmLVHmJNM). Kofax Transformation Designer is included in the [RPA Free Trial](https://www.kofax.com/products/rpa/rpa-free-trial).
 _You will need experience with Kofax Transformation and need to have it installed_
 * [Field Confidence Threshold Optimization Tool](https://github.com/KofaxTransformation/ThresholdOptimizer) [[video](https://kofax.app.bigtincan.com/lshare/0yM3m6XZokwa4evnprJA8dXTlfMiq82YjKl1LqPQ7Gbd9V5DNz)] [[presentation](https://kofax.app.bigtincan.com/pfiles/6e70dV9WRAQzDypokgVrimT9hnCof3iDgx5OLGX4nZaKmv13Pq)]
+* Use [Microsoft OCR](https://github.com/KofaxTransformation/MicrosoftOCR) engine for full-page OCR.
+* [Put OpenAI's GPT](https://github.com/KofaxTransformation/OpenAI) into a table locator.
 * [Advanced Classification](https://github.com/KofaxTransformation/KTScripts/blob/master/Custom%20Classification.md) [[video](https://kofax.app.bigtincan.com/pfiles/eo57XKl2mjWQrYwZRBnWibhoUwhVcrt58O4dDkJP1AzvnaGx0y/f/1040349747)][[presentation](https://kofax.app.bigtincan.com/pfiles/eo57XKl2mjWQrYwZRBnWibhoUwhVcrt58O4dDkJP1AzvnaGx0y/f/1040349748)]
 * [Script Library](https://github.com/KofaxTransformation/KTScripts#readme)
 ### SignDoc
