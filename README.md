@@ -96,8 +96,21 @@ _You will need experience with Kofax Transformation and need to have it installe
 ### AP Essentials
 * Open [AP Essentials](https://kofaxdemo-au.readsoftonline.com/)
 ![image](https://user-images.githubusercontent.com/47416964/186334804-a9f09d84-a9f3-46a9-b73b-7b3d643a9cfd.png)
-* user name **User_11112** (PW TrainatKofax01) to validate and review an invoice.
-* user name **User_11111** (PW TrainatKofax01) to approve an invoice.
+1. user name **User_11112** (PW TrainatKofax01) to validate and review an invoice.
+  * Navigate to the **Verification** workspace.
+  * Click on the invoice and reivew data.
+  * Take note of the **invoice number** to use in step 3.
+  * Select **OK** to complete the invoice.
+  * Go to **In Progress* work queue - the invoice will be available in Step 2 after a minute.
+2. user name **User_11111** (PW TrainatKofax01) to approve the invoice.
+  * Navigate to **Assigned to me** and click the invoice.
+  * Open up the **Comments area**.
+  * Click on the speech bubble and adda comment.
+  * Select **OK** to approve the invoice.
+3. user name **User_11112** (PW TrainatKofax01) to review the invoice.
+  * Navigate to the **Processed** area.
+  * Find the invoice using the invoice number from Step 1.
+  * Click **expand area** and review the details of the invoice.
 ### Mobile Capture
 * Scan a document with [Kofax Mobile Capture](https://apps.apple.com/at/app/kofax-mobile-capture/id524825569?l=en) on your iPhone.
 ### Printix
