@@ -96,7 +96,8 @@ _You will need experience with Kofax Transformation and need to have it installe
 ### AP Essentials
 * Open [AP Essentials](https://kofaxdemo-au.readsoftonline.com/)
 ![image](https://user-images.githubusercontent.com/47416964/186334804-a9f09d84-a9f3-46a9-b73b-7b3d643a9cfd.png)
-* Ask event host for demo user name and password.
+* user name **User_11112** (PW TrainatKofax01) to validate and review an invoice.
+* user name **User_11111** (PW TrainatKofax01) to approve an invoice.
 ### Mobile Capture
 * Scan a document with [Kofax Mobile Capture](https://apps.apple.com/at/app/kofax-mobile-capture/id524825569?l=en) on your iPhone.
 ### Printix
