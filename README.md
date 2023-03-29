@@ -7,6 +7,13 @@
 * Irvine, California. Early May?
 
 # Day 1
+## Agenda
+* Introduction
+* Kofax 2023
+* Intelligent Automation
+* Your Cloud Choice
+* AI and the problem with Accuracy [[video](https://kofax.app.bigtincan.com/pfiles/QNb0pzmX1Ov6oPrWVEmZiQhrhLijFlhzBGDyxjYan95Ldl27Kk/f/1039876035)] [[presentation](https://kofax.app.bigtincan.com/pfiles/QNb0pzmX1Ov6oPrWVEmZiQhrhLijFlhzBGDyxjYan95Ldl27Kk/f/1039876036)]
+
 ## Introduction
 * Welcome. 
 * General Themes.
