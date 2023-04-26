@@ -4,7 +4,7 @@
 * Singapore Wednesday 22 March - Thursday 23 March [Agenda and Presentation Download](https://kofax.app.bigtincan.com/lshare/ZWJlz2MjROXLoxd30w1aBwzc7CQCmEe6AqrpN5nVDY7yvkK4Qb)
 * Sydney Monday 27 March - Tuesday 28 March
 * Liberty, SC, Tuesday May 2 - Wednesday 3 May
-* [Reston, Virginia](https://www.eventbrite.com/e/604150038027), Monday May 8 - Tuesday May 9, 2023
+* [Reston, Virginia](https://www.eventbrite.com/e/604142876607), Monday May 8 - Tuesday May 9, 2023
 * [Newport Beach](https://www.eventbrite.com/e/604138222687), California Wednesday May 10 - Thursday May 11, 2023
 
 # Day 1
