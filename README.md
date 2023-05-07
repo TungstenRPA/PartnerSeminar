@@ -1,84 +1,30 @@
 # Kofax Intelligent Automation Workshop for Partners
 
 *David Wright, Partner Enablement Manager*  
-* Singapore Wednesday 22 March - Thursday 23 March [Agenda and Presentation Download](https://kofax.app.bigtincan.com/lshare/ZWJlz2MjROXLoxd30w1aBwzc7CQCmEe6AqrpN5nVDY7yvkK4Qb)
-* Sydney Monday 27 March - Tuesday 28 March
-* Liberty, SC, Tuesday May 2 - Wednesday 3 May
 * [Reston, Virginia](https://www.eventbrite.com/e/604142876607), Monday May 8 - Tuesday May 9, 2023
-* [Newport Beach](https://www.eventbrite.com/e/604138222687), California Wednesday May 10 - Thursday May 11, 2023
 
 # Day 1
 ## Agenda
-* Introduction
-* Kofax 2023
-* Intelligent Automation
+* Welcome, Introduction and Expectations Survey
+* Kofax Intelligent Automation
 * Your Cloud Choice
+* Kofax Marketplace
 * AI and the problem with Accuracy [[video](https://kofax.app.bigtincan.com/pfiles/QNb0pzmX1Ov6oPrWVEmZiQhrhLijFlhzBGDyxjYan95Ldl27Kk/f/1039876035)] [[presentation](https://kofax.app.bigtincan.com/pfiles/QNb0pzmX1Ov6oPrWVEmZiQhrhLijFlhzBGDyxjYan95Ldl27Kk/f/1039876036)]
-
-## Introduction
-* Welcome. 
-* General Themes.
-* Partner Program. Register with partner portal.
-* What are your expectations.
-
-## Session 1 Introduction
-* Hyperautomation and Citizen Developers.
-* Market Messaging (we don't use words 'capture' and 'print'. We don't bring data, we achieve insights so customers can make decisions.)
+* Expert Panel
+  * Strategy, Ecosystem, Sales
 ```
 Kofax' Intelligent Automation Platform and Solutions improve business critical operations through actionable insigits and data-intensive workflow automation.
 ```
-* Intelligent Automation Platform
-    * Data-Intensive Workflows
-      * Differentiation - Intelligent Document Processing and RPA.
-* Intelligant Automation Solutions
-    * Financial Process Automation
-    * Document Automation & Security
-    * Document Productivity  
-* Roadmap themes, Tungsten, Ephesoft.
-![image](https://user-images.githubusercontent.com/47416964/222440020-0bb25d73-84fe-4ece-8422-548a301cbcce.png)
 
-* Verticals and Solutions, not Technology. Where to find success with Kofax.
-    * Partners can build their own verticals or build on Kofax'.
-    * [Kofax Marketplace](https://marketplace.kofax.com/)
-    * Available sales plays
-* Roadmap Themes - Customer Experience - Continuous Engagement
-* [GKO video links](https://app.zunos.com/#/courses/catalog/33242/) 125 partners attended
-* Get access to [Kofax Partner Portal](https://www.kofax.com/partners/partner-portal-request-form). this will give you access to our Partner Portal and Kofax Sales Content Hub (Bigtincan), and Sales Learning Platform (Zunos)
-
-## Session 2 - Intelligent Automation
-
-* Cloud
-  * Our Cloud or your Cloud - it's your choice.
-  * KTA Cloud. 
-    * Pricing vs on-prem Pricing.
-   * RPA Cloud.
-      * Current limitations
-        * Only 2 CRE Licenses.
-        * No access to Desktop Automation.
-        * Robots limited to 15 minutes.
-      * Migrating to Cloud.
-      * Breaking complex robots into smaller pieces.
-        * parallelization.
-        * Quick RPA.
-        * RPA Cloud.
-        * Recoverability.
-        * Data safety.
-* How to face your competitors.
-
-## Q&A and Quiz
-
-## Sessions 3 - AI, Accuracy, Automation
-* The Accuracy Problem and why we focus on People [[video](https://kofax.app.bigtincan.com/pfiles/QNb0pzmX1Ov6oPrWVEmZiQhrhLijFlhzBGDyxjYan95Ldl27Kk/f/1039876035)] [[presentation](https://kofax.app.bigtincan.com/pfiles/QNb0pzmX1Ov6oPrWVEmZiQhrhLijFlhzBGDyxjYan95Ldl27Kk/f/1039876036)]
-* Everything you need to know about AI.
-* Kofax Transformation is the AI brain of Intelligent Automation.
-* Demo of Resistant AI.
-
-## Optional
-* Customer Engagement and Qualification (Personas)
-  * ([Homework](HomeWork%201.md) - Do Analysis of your next customer)
-
-## Day 2 - Technical Workshop
-_Day 2 of the workshop is a flexible time for your to explore Kofax technology on your own. Pick a product below and get started. Kofax Sales Engineers are available to assist you._
+## Day 2 
+* Welcome & Working with Carasoft
+* Kofax Licensing
+* Kofax Resources
+## Day 2 Workshop  
+_The workshop is a flexible time for your to explore Kofax technology on your own. Pick a product below and get started. Kofax Sales Engineers are available to assist you._
+### Total Agility
+* Use [Quick RPA](https://docshield.kofax.com/KTA/en_US/7.11.0-h49vd5omev/help/Workspace/All_Shared/workspace/t_quickrpa.html) to integrate an RPA robot into Total Agility.
+* [Integrate](https://smarthub.kofax.com/details/ai-document-fraud-detection-resistant) [Resistant AI](https://resistant.ai/) with Total Agililty. (Detecting forged indentity cards)
 ### RPA
 * Install [Kofax RPA for free](https://www.kofax.com/products/rpa/rpa-free-trial) and [build your first robot](https://www.kofax.com/-/media/files/e-books/en/ug_rpa-tutorial-guide-_en.pdf) ([video tutorial](https://www.kofax.com/eg/kofax-rpa-tutorials)).
 * Breaking complex robots into simpler robots to support parallelization, Quick RPA, RPA Cloud, recoverability, data safety.
@@ -98,9 +44,6 @@ _You will need experience with Kofax Transformation and need to have it installe
 * [Script Library](https://github.com/KofaxTransformation/KTScripts#readme)
 ### SignDoc
 * See Richard.
-### Total Agility
-* Use [Quick RPA](https://docshield.kofax.com/KTA/en_US/7.11.0-h49vd5omev/help/Workspace/All_Shared/workspace/t_quickrpa.html) to integrate an RPA robot into Total Agility.
-* [Integrate](https://smarthub.kofax.com/details/ai-document-fraud-detection-resistant) [Resistant AI](https://resistant.ai/) with Total Agililty. (Detecting forged indentity cards)
 ### AP Essentials
 * Open [AP Essentials](https://kofaxdemo-au.readsoftonline.com/)
 ![image](https://user-images.githubusercontent.com/47416964/186334804-a9f09d84-a9f3-46a9-b73b-7b3d643a9cfd.png)
